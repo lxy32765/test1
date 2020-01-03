@@ -7,6 +7,5 @@ public class _test {
 		System.out.println(i);
 		String d="abc";
 		System.out.println(d);
-		
 	}
 }
